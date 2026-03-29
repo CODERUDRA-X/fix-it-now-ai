@@ -1,0 +1,9 @@
+# Python
+venv/
+__pycache__/
+
+# Env files
+.env
+
+# DB
+*.db
