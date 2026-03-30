@@ -1,7 +1,7 @@
 # 🏙️ Fix It Now
 > AI-powered municipal complaint system — smart clustering, severity detection & map hotspot visualization
 
-Built by **CODERUDRA-X**
+Built by **Team CODERUDRA-X**
 
 ---
 
